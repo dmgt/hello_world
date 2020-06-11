@@ -2,7 +2,7 @@
 
 I'm a buildings + energy data geek. I'm also a Certified [Software Carpentry](https://carpentries.org/about/) [instructor](https://carpentries.org/become-instructor/), a former [Py-Ladies Oakland](https://www.meetup.com/Oakland-PyLadies/) co-organizer, and a founding member of the [Energy Data Experts Network](http://www.energyden.org/) community who :heart_eyes: literate programming with RMarkdown. 
 
-**Here are some public resources I've written or co-created (click to expand):**
+**Here are some public resources I've written or co-created:**
 
 ### Beginner: 
   - [Python community resources for beginning programmers in Berkeley, CA](https://github.com/dmgt/190C__py_communities_intro/blob/master/resources.md)
