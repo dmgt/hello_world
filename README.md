@@ -10,13 +10,14 @@ I'm a buildings + energy data geek working to contribute to an equitable, decarb
   - [Resources for getting started with R at UC Berkeley](https://github.com/dmgt/TIL/blob/master/getting_started_in_R.md)
     
 ### Rstats + reproducibility
-  - [Instructions for configuring RStudio with Rocker on cloud resources with multiple user logins](https://github.com/dmgt/TIL/blob/master/howto_set_up_multiple_users_on_Rstudio_on_Docker.md)
-  - [A reproducible scientific journal article template](https://github.com/dmgt/rmd-example) in RMarkdown with Binder and `rticles`
+  - [Instructions for configuring RStudio with Rocker on cloud compute resources with multiple user logins](https://github.com/dmgt/TIL/blob/master/howto_set_up_multiple_users_on_Rstudio_on_Docker.md)
   - [Script](https://github.com/dmgt/bms_data_wrangling/tree/master/transform_diagonal_data) to tidy diagonally-formatted data exported from Building Management systems
+  - [Experienced level: A reproducible scientific journal article template](https://github.com/dmgt/rmd-example) in RMarkdown with Binder and `rticles`
+  - [Introductory level: Example of organizing, summarizing, and vizualizing data in an RMarkdown document for a report](https://github.com/dmgt/example_data_processing)
   - Draft [Binder tutorial](https://github.com/dmgt/binder_tutorial/blob/master/tutorial.md) and [graphics](https://github.com/dmgt/presentations/blob/master/2018_binder_intro_diagram.pdf) for introducing Binder to novices
   - ["TIL"](https://github.com/dmgt/TIL/blob/master/TIL.md) -assorted tips and tricks for R, python, and statistics examples and tutorials
   
-### Presentations
+### Selected presentations
    - June 2018 : [Deep dive on tools for more reproducible and interactive data analysis in building science](https://github.com/dmgt/presentations/blob/master/2018_06_23_conversation_on_tools_for_reproducible_data_analysis.pdf)
    - Sept 2018 lecture in Arch 241: [Towards more reporducible + open research in building science: what, why, and some tools for how](https://github.com/dmgt/presentations/blob/master/2018_09_27_Arch240_reproducibility_lecture_and_demo_extended.pdf)
    - Jan 2019 [RMarkdown workshop](https://github.com/dmgt/presentations/blob/master/2019_01_03_mini_markdown_workshop.pdf) at BEARS
