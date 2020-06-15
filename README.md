@@ -14,6 +14,7 @@ I'm a buildings + energy data geek working to contribute to an equitable, decarb
   - [Script](https://github.com/dmgt/bms_data_wrangling/tree/master/transform_diagonal_data) to tidy diagonally-formatted data exported from Building Management systems
   - [Experienced level: A reproducible scientific journal article template](https://github.com/dmgt/rmd-example) in RMarkdown with Binder and `rticles`
   - [Introductory level: Example of organizing, summarizing, and vizualizing data in an RMarkdown document for a report](https://github.com/dmgt/example_data_processing)
+  - Example [data organization and visualization](https://gist.github.com/dmgt/d3c12beada9e794d5f04fcc951ee2479) from an energy efficiency retrofit evaluation
   - Draft [Binder tutorial](https://github.com/dmgt/binder_tutorial/blob/master/tutorial.md) and [graphics](https://github.com/dmgt/presentations/blob/master/2018_binder_intro_diagram.pdf) for introducing Binder to novices
   - ["TIL"](https://github.com/dmgt/TIL/blob/master/TIL.md) -assorted tips and tricks for R, python, and statistics examples and tutorials
   
