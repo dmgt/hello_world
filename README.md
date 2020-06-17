@@ -11,7 +11,7 @@ I'm a buildings + energy data geek working to contribute to an equitable, decarb
     
 ### Rstats + reproducibility
   - [Instructions for configuring RStudio with Rocker on cloud compute resources with multiple user logins](https://github.com/dmgt/TIL/blob/master/howto_set_up_multiple_users_on_Rstudio_on_Docker.md)
-  - [Script](https://github.com/dmgt/bms_data_wrangling/tree/master/transform_diagonal_data) to tidy diagonally-formatted data exported from Building Management systems
+  - [Script](https://github.com/dmgt/bms_data_wrangling/tree/master/transform_diagonal_data) to tidy diagonally-formatted data exported from Building Management Systems
   - [Experienced level: A reproducible scientific journal article template](https://github.com/dmgt/rmd-example) in RMarkdown with Binder and `rticles`
   - [Introductory level: Example of organizing, summarizing, and vizualizing data in an RMarkdown document for a report](https://github.com/dmgt/example_data_processing)
   - Example [data organization and visualization](https://gist.github.com/dmgt/d3c12beada9e794d5f04fcc951ee2479) from an energy efficiency retrofit evaluation
