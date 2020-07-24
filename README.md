@@ -1,6 +1,6 @@
 :wave: **Hi, I'm Dana**
 
-I'm a buildings + energy data geek working to contribute to an equitable, decarbonized energy ecosystem. I'm also a Certified [Software Carpentry](https://carpentries.org/about/) [instructor](https://carpentries.org/become-instructor/), a former [Py-Ladies Oakland](https://www.meetup.com/Oakland-PyLadies/) co-organizer, and a founding member of the [Energy Data Experts Network](http://www.energyden.org/) community who :heart_eyes: literate programming with RMarkdown. 
+I'm a buildings + energy data geek aiming to work towards an equitable, decarbonized energy ecosystem. I'm also a Certified [Software Carpentry](https://carpentries.org/about/) [instructor](https://carpentries.org/become-instructor/), a former [Py-Ladies Oakland](https://www.meetup.com/Oakland-PyLadies/) co-organizer, and a founding member of the [Energy Data Experts Network](http://www.energyden.org/) community who :heart_eyes: literate programming with RMarkdown. 
 
 **Here are some public resources I've written or co-created:**
 
