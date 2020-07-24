@@ -13,7 +13,7 @@ I'm a buildings + energy data geek aiming to work towards an equitable, decarbon
  #### Reproducible research
   - [Introductory level: Example of organizing, summarizing, and vizualizing data in an RMarkdown document for a report](https://github.com/dmgt/example_data_processing)
   - [Experienced level: A reproducible scientific journal article template](https://github.com/dmgt/rmd-example) in RMarkdown with Binder and `rticles`
-  - Example [data organization and visualization](https://gist.github.com/dmgt/d3c12beada9e794d5f04fcc951ee2479) from an energy efficiency retrofit evaluation
+  - Example [data organization and visualization](https://gist.github.com/dmgt/d3c12beada9e794d5f04fcc951ee2479) from an energy efficiency retrofit 
   - [Script](https://github.com/dmgt/bms_data_wrangling/tree/master/transform_diagonal_data) to tidy diagonally-formatted data exported from Building Management Systems
   - [Configuring R + RStudio on cloud compute resources - instructions for setup with Rocker and configuring multiple user logins](https://github.com/dmgt/TIL/blob/master/howto_set_up_multiple_users_on_Rstudio_on_Docker.md)
   - Draft [Binder tutorial](https://github.com/dmgt/binder_tutorial/blob/master/tutorial.md) and [graphics](https://github.com/dmgt/presentations/blob/master/2018_binder_intro_diagram.pdf) for introducing Binder to novices
