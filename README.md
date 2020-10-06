@@ -7,7 +7,7 @@ I'm a buildings + energy data geek aiming to work towards an equitable, decarbon
 ### Beginner python, R, and GitHub resources: 
   - [Python community resources for beginning programmers in Berkeley, CA](https://github.com/dmgt/190C__py_communities_intro/blob/master/resources.md)
   - [Graphical user interface and command line instructions for contributing to Software Carpentry documentation with 'GitHub flow'](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md)
-  - [Resources for getting started with R at UC Berkeley](https://github.com/dmgt/TIL/blob/master/getting_started_in_R.md)
+  - [Resources for getting started with R](https://github.com/dmgt/TIL/blob/master/getting_started_in_R.md)
     
 ### Rstats:
  #### Reproducible research
